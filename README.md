@@ -4,6 +4,7 @@ Repositório criado para a realização da **Atividade Chart.js**, com foco no u
 
 ## 📂 Tarefa:
 Crie uma página HTML e utilize a biblioteca "Chart.JS" como foi explicado, criando uma dashboard como a imagem abaixo:
+
 ![Image](https://github.com/user-attachments/assets/cc7a2e35-5786-4233-8aed-8e396f81a4de)
 
 ## 🚀 Objetivo
